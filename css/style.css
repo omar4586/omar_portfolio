@@ -1,5 +1,5 @@
 body {
-    background-color: #5eaf1b;
+    background-color: #11e0d6;
   
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -17,9 +17,9 @@ body {
   }
   
   .highlight {
-    font-weight: 700;
+    font-weight: 800;
   
-    color: forestgreen;
+    color: rgb(66, 13, 214);
   }
   
   h1,
