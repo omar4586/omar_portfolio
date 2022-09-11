@@ -1,5 +1,5 @@
 body {
-    background-color: #11e0d6;
+    background-color: #bee4be;
   
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -38,7 +38,7 @@ body {
   /* unvisited link */
   
   a:link {
-    color: rgb(77, 118, 172);
+    color: rgb(13, 235, 61);
   }
   
   /* visited link */
